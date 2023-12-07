@@ -1,1 +1,1 @@
-# GP2_JTD
+# Hangman game is a game using Python with key components including word selection, user input handling, prevention of duplicate guesses, updating game state based on correct or incorrect guesses, and conditions for winning or losing. The main game loop orchestrates these components, prompting the player to guess letters until they either correctly identify the entire word or exhaust their attempts. The modular design enhances code readability and maintainability, emphasizing fundamental programming concepts and structures in a simple interactive game.
